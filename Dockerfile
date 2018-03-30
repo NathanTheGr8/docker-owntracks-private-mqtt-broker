@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:stable
 
 MAINTAINER Philipp Adelt <autosort-github@philipp.adelt.net>
 
